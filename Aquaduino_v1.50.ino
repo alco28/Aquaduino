@@ -5,7 +5,7 @@
 */
  
 //INTIALISATION
-
+// SET ALL TO 0 WHEN YOUR DEVELOPMENT IS DONE!
 #define SERIAL    1    // set to 1 to also report readings on the serial port
 #define DEBUG     0    // set to 1 to display 0;
 
